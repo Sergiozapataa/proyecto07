@@ -100,12 +100,6 @@ El equipo está conformado por **4 integrantes**, con responsabilidades específ
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
-
----
-
 ## 📬 Contacto
 
 Si tienes dudas o sugerencias, no dudes en contactarnos a través de este repositorio.
